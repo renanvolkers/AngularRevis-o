@@ -1,3 +1,10 @@
+import { MillenniumFalcon } from './starfighters';//Utilização de Modulo
+import{SpaceCraft,Containership} from './base-ships'//Utilização de Modulo
+
+import * as _ from 'lodash'
+
+console.log(_.pad("TypeScript Examples",40,"="))
+
 let message: string = "Helpme, Obi-Wan Kenobi. You 're my only hope!"
 console.log(message)
 

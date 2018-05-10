@@ -1,7 +1,6 @@
 {
-  "name": "AngularRevisao-master",
+  "name": "angularrevisao",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,14 @@
   },
   "devDependencies": {
     "@types/lodash": "^4.14.108"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanvolkers/AngularRevisao.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renanvolkers/AngularRevisao/issues"
+  },
+  "homepage": "https://github.com/renanvolkers/AngularRevisao#readme",
+  "description": ""
 }

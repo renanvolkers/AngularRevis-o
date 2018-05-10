@@ -1,3 +1,7 @@
+"use strict";
+exports.__esModule = true;
+var _ = require("lodash");
+console.log(_.pad("TypeScript Examples", 40, "="));
 var message = "Helpme, Obi-Wan Kenobi. You 're my only hope!";
 console.log(message);
 var episode = 4;

@@ -1,8 +1,9 @@
-
+//Foi criado com objetivo de separar o codigo js do ts 
+//definido no outDir na pasta dist
 {
     "compilerOptions":{
      "outDir": "dist" ,
-     "noEmitOnError":false  
+     "noEmitOnError":false 
     }
 
 }
